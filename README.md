@@ -7,7 +7,7 @@ In this project, I analyzed video game critic and user scores as well as sales d
 My search involved joining datasets and comparing results with set theory. I also filtered, grouped, and ordered data. 
 
 Photo by Dan Schleusser on Unsplash.
-![alt text](https://github.com/natvalenz/videoGames/blob/main/1.jpg)
+![alt text](https://github.com/natvalenz/videoGames/blob/main/images/video_game.jpg)
 
 Video games are big business: the global gaming market is projected to be worth more than $300 billion by 2027 according to Mordor Intelligence. With so much money at stake, the major game publishers are hugely incentivized to create the next big hit. But are games getting better, or has the golden age of video games already passed?
 
@@ -15,7 +15,7 @@ In this project, I explored the top 400 best-selling video games created between
 
 The database contains two tables. I limited each table to 400 rows for this project, but you can find the complete dataset with over 13,000 games on Kaggle.
 
-![alt text](https://github.com/natvalenz/videoGames/blob/main/1.jpg)
+![alt text](https://github.com/natvalenz/videoGames/blob/main/images/1.jpg)
 
 Let's begin by looking at some of the top selling video games of all time!
 
@@ -27,7 +27,7 @@ This project uses techniques in SQL, including left and inner joins, set theory 
 
 I selected all columns for the top ten best-selling video games (based on games_sold) in game_sales and ordered the results from the best-selling game down to the tenth best-selling game.
 
-![alt text](https://github.com/natvalenz/videoGames/blob/main/2.jpg)
+![alt text](https://github.com/natvalenz/videoGames/blob/main/images/2.jpg)
 
 
 2. Missing review scores
